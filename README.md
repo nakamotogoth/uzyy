@@ -15,3 +15,4 @@ ban
 xxx
 w!fe
 a lot bro
+10k
